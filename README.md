@@ -1,1 +1,1 @@
-# JavaScript-Beginne-to-Advance
+# JavaScript-Beginner-to-Advance
