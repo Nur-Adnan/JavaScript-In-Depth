@@ -33,3 +33,13 @@ Welcome to **JavaScript In-Depth**, a comprehensive guide to mastering JavaScrip
 - Lexical Scope
 - IIFE (Immediately Invoked Function Expression) Pattern
 - ECMAScript (ECMA) Standards
+
+### 4. JavaScript Framework and Library
+
+- jQuery Building Good UI with less code
+- RxJs Async Library
+- Redux State Management
+- Web Pack Bundler
+
+
+### 4. JavaScript Framework and Library
