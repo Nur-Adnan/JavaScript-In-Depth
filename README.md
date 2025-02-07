@@ -41,5 +41,10 @@ Welcome to **JavaScript In-Depth**, a comprehensive guide to mastering JavaScrip
 - Redux State Management
 - Web Pack Bundler
 
+### 5. JavaScript Plugin
 
-### 4. JavaScript Framework and Library
+- Barcode
+- QR Code
+- Grids
+- Cookies
+- Local Storage etc
