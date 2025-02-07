@@ -1,1 +1,1 @@
-# JavaScript-Beginner-to-Advance
+# JavaScript-In-Depth
