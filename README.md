@@ -13,6 +13,7 @@ Welcome to **JavaScript In-Depth**, a comprehensive guide to mastering JavaScrip
 - Operators
 - Statements
 - Functions
+- Conditions
 
 ### 2. JavaScript OOP
 
