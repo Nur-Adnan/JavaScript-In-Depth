@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **JavaScript In-Depth**, a comprehensive guide to mastering JavaScript. This repository covers JavaScript fundamentals, Object-Oriented Programming (OOP), and advanced concepts to help you become proficient in the language.
+Welcome to **JavaScript In-Depth**, a comprehensive guide to master in JavaScript. This repository covers JavaScript fundamentals, Object-Oriented Programming (OOP), and advanced concepts to help you become proficient in the language.
 
 ## Table of Contents
 
